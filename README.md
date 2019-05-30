@@ -106,3 +106,51 @@ void main() {
 }
 
 ```
+
+## Condição Lógica IF
+
+O IF serve para determinar se um bloco de instruções **deve** ou **não** ser executado, pode-se dizer que sempre que for necessário **testar** algum valor usaremos o *if*.
+
+### Operadores Lógicos
+
+- == *Igualdade*
+- != *Diferente*
+- >= *Maior ou igual* 
+- <= *Menor ou igual*
+- >  *Maior*
+- <  *Menor*
+
+### Sintaxe
+
+```dart
+if(teste_logico)
+{
+    //faz isso se o teste for verdadeiro
+}
+else
+{
+    //faz isso se o teste for falso
+}
+```
+
+### Exemplo if
+
+```dart
+string curso = "programador android";
+
+if(curso == "programador android")
+{
+    print("Parabéns, você faz ótimas escolhas.");
+}
+else
+{
+    print("Vacilão, aposto que você faz ADM.");
+}
+```
+
+
+
+
+
+
+
