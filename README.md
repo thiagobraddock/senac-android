@@ -115,9 +115,9 @@ O IF serve para determinar se um bloco de instruções **deve** ou **não** ser 
 
 - == *Igualdade*
 - != *Diferente*
-- >= *Maior ou igual* 
+- \>= *Maior ou igual* 
 - <= *Menor ou igual*
-- >  *Maior*
+- \>  *Maior*
 - <  *Menor*
 
 ### Sintaxe
