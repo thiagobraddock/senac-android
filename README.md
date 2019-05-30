@@ -133,7 +133,7 @@ else
 }
 ```
 
-### Exemplo if :+1:
+### Exemplo if :floppy_disk:
 ```dart
 string curso = "programador android";
 
