@@ -7,4 +7,4 @@
 [Modelo Básico Flutter](modelo.dart)
 
 ## Exemplo classe Pessoa com métodos/funções
-[Modelo Básico Flutter](pessoa.dart)
+[Exemplo classe Pessoa](pessoa.dart)
